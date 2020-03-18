@@ -36,8 +36,8 @@ async def _(event):
     await borg.send_file(  # pylint:disable=E0602
         event.chat_id,
         required_file_name,
-        caption="Userbot: Powered by @XtraTgBot",
-        # Courtesy: @ManueI15
+        caption="Userbot: Powered by @Denver02",
+        # Courtesy: @Denver02
         reply_to=reply_msg_id
     )
     os.remove(required_file_name)
