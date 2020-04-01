@@ -13,10 +13,10 @@ PREV_REPLY_MESSAGE = {}
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "**No name set yet nibba, check pinned message in** @XtraTgBot"
 USER_BOT_WARN_ZERO = "`You were spamming my peru master's inbox, henceforth your retarded lame ass has been blocked by my master's userbot.` **Now GTFO, i'm playing minecraft** "
 USER_BOT_NO_WARN = ("[──▄█▀█▄─────────██ \n▄████████▄───▄▀█▄▄▄▄ \n██▀▼▼▼▼▼─▄▀──█▄▄ \n█████▄▲▲▲─▄▄▄▀───▀▄ \n██████▀▀▀▀─▀────────▀▀](tg://user?id=208215045)\n\n"
-                    "`Hello, this is X-tra-Telegram Security Service.You have found your way here to my master,`"
+                    "`Hello, Dear User! You are there because you want to talk to me but unfortunately currently I am in the hospital Because I have the virus called Corona. ,`"
                     f"{DEFAULTUSER}'s` inbox.\n\n"
                     "Note: This is a automatic Message.`\n\n"
-                    "** Send** `/start` ** so that we can decide why you're here.**")
+                    "** Send** `/start` ** so that when i come back i can answer you.**")
 
 
 if Var.PRIVATE_GROUP_ID is not None:
